@@ -1,0 +1,84 @@
+/* ===================================================================
+ * fonts.scss)
+ *
+ * ------------------------------------------------------------------- */
+
+/*
+ * Roboto
+================================================================================ */
+@font-face {
+	font-family: "Noto Sans TC", sans-serif, "roboto-light";
+	@import url(//fonts.googleapis.com/earlyaccess/notosanstc.css);
+	src: url("../fonts/roboto/roboto-light-webfont.woff2") format("woff2"), url("../fonts/roboto/roboto-light-webfont.woff") format("woff");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: "Noto Sans TC", sans-serif, "roboto-regular";
+	src: url("../fonts/roboto/roboto-regular-webfont.woff2") format("woff2"), url("../fonts/roboto/roboto-regular-webfont.woff") format("woff");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: "Noto Sans TC", sans-serif, "roboto-italic";
+	src: url("../fonts/roboto/roboto-italic-webfont.woff2") format("woff2"), url("../fonts/roboto/roboto-italic-webfont.woff") format("woff");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: "Noto Sans TC", sans-serif, "roboto-medium";
+	src: url("../fonts/roboto/roboto-medium-webfont.woff2") format("woff2"), url("../fonts/roboto/roboto-medium-webfont.woff") format("woff");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family:"Noto Sans TC", sans-serif, "roboto-bold";
+	src: url("../fonts/roboto/roboto-bold-webfont.woff2") format("woff2"), url("../fonts/roboto/roboto-bold-webfont.woff") format("woff");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: "Noto Sans TC", sans-serif, "Noto Sans TC", sans-serif, "roboto-black";
+	src: url("../fonts/roboto/roboto-black-webfont.woff2") format("woff2"), url("../fonts/roboto/roboto-black-webfont.woff") format("woff");
+	font-style: normal;
+	font-weight: normal;
+}
+
+/*
+ * Montserrat
+================================================================================ */
+@font-face {
+	font-family: "Noto Sans TC", sans-serif, "montserrat-regular";
+	src: url("../fonts/montserrat/montserrat-regular-webfont.woff2") format("woff2"), url("../fonts/montserrat/montserrat-regular-webfont.woff") format("woff");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: "Noto Sans TC", sans-serif, "montserrat-bold";
+	src: url("../fonts/montserrat/montserrat-bold-webfont.woff2") format("woff2"), url("../fonts/montserrat/montserrat-bold-webfont.woff") format("woff");
+	font-style: normal;
+	font-weight: normal;
+}
+
+/*
+ * Muli
+================================================================================ */
+@font-face {
+	font-family:"Noto Sans TC", sans-serif, "muli-regular";
+	src: url("../fonts/muli/muli-regular-webfont.woff2") format("woff2"), url("../fonts/muli/muli-regular-webfont.woff") format("woff");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: "Noto Sans TC", sans-serif, "muli-light";
+	src: url("../fonts/muli/muli-light-webfont.woff2") format("woff2"), url("../fonts/muli/muli-light-webfont.woff") format("woff");
+	font-style: normal;
+	font-weight: normal;
+}
